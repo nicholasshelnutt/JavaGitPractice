@@ -30,5 +30,6 @@ public class Demo
         }
 
         vehicle.vehicleType();
+        scan.close();
     }
 }
